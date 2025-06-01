@@ -3,14 +3,14 @@
   <img src="https://github.com/theMorshed/theMorshed/blob/main/assets/banner.jpg?raw=true" alt="Banner" />
 </p>
 
-# 👋 Hi, I'm Moshib
+# 👋 Hi, I'm Morshed
 
 I'm a passionate **Full-Stack Developer** focused on building scalable web apps and backend systems.  
 Currently exploring microservices, system design, and cutting-edge web technologies.  
 
-- 🧪 Lab Engineer by day, 🧑‍💻 developer by night  
-- 🌍 Building [BasaFinder](https://github.com/moshibdev/basafinder) – a house rental app  
-- 🏗️ Architecting backend systems with Node.js + MongoDB  
+- 🧑‍💻 A Passionate Software Engineer
+- 🌍 Building [BikeStore](https://github.com/theMorshed/bike_store_frontend) – an ecommerce app  
+- 🏗️ Architecting backend systems with Node.js + Express JS + MongoDB  
 - 💡 Always learning, always improving
 
 ---
@@ -31,13 +31,10 @@ Currently exploring microservices, system design, and cutting-edge web technolog
 
 ## 📌 Projects
 
-### 🚲 [Bike Store Application](https://github.com/moshibdev/bike-store)
+### 🚲 [Bike Store Application](https://github.com/theMorshed/bike_store_frontend)
 A full-featured e-commerce app for bike sales. Integrated with **Shurjapay** payment gateway.
 
-### 🧪 [Laboratory Management System](https://github.com/moshibdev/lms)
-Modular MERN-based system to manage patient reports and diagnostics.
-
-### 🏠 [BasaFinder](https://github.com/moshibdev/basafinder)
+### 🏠 [BasaFinder](https://github.com/theMorshed/BasaFinder_Frontend)
 A smart rental housing app with landlord dashboard, listings, and advanced filtering.
 
 ---
@@ -45,16 +42,17 @@ A smart rental housing app with landlord dashboard, listings, and advanced filte
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moshibdev&show_icons=true&theme=radical" alt="Moshib's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMorshed&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theMorshed&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/moshib)
-- 🌐 [Portfolio](https://moshib.dev)
-- ✉️ moshib@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/themorshed)
+- 🌐 [Portfolio](https://portfoliomorshed.vercel.app/)
+- ✉️ themorshedctg@gmail.com
 
 ---
 
