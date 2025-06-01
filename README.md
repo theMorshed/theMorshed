@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/moshibdev/moshibdev/blob/main/assets/banner.png?raw=true" alt="Banner" />
+  <img src="https://github.com/theMorshed/theMorshed/blob/main/assets/banner.jpg?raw=true" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Moshib
